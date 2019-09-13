@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node":"12.6.0",
-    "npm":"6.11.2"
+    "node": "12.6.0",
+    "npm": "6.11.2"
   },
   "scripts": {
     "start": "node index.js"
@@ -13,8 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    
     "express": "^4.15.3"
-   
   }
 }
